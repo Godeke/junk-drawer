@@ -1,6 +1,7 @@
 using System;
 using System.Management;
 using System.Diagnostics;
+using System.Runtime.Versioning;
 
 class WMIMonitor
 {
